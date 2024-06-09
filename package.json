@@ -6,21 +6,30 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@ignite-ui/react": "^2.2.4",
+    "downloadjs": "^1.4.7",
+    "html-to-image": "^1.11.11",
+    "next": "14.2.3",
+    "next-sitemap": "^4.2.3",
+    "qrcode.react": "^3.1.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-color": "^2.19.3",
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/downloadjs": "^1.4.6",
     "@types/node": "^20",
     "@types/react": "^18",
+    "@types/react-color": "^3.0.12",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "typescript": "^5"
   }
 }
