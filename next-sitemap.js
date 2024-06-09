@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://www.seusite.com',
+  siteUrl: 'https://qr-code-generator-mocha-beta.vercel.app/',
   generateRobotsTxt: true,
 };
