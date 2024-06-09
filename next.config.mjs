@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['www.seusite.com'],
+    domains: ['https://qr-code-generator-mocha-beta.vercel.app/'],
   },
 };
 
