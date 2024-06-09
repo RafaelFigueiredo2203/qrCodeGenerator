@@ -11,7 +11,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta property="og:title" content="Gerador de QR Code" />
         <meta property="og:description" content="Gere seus QR codes personalizados facilmente com nosso gerador de QR Code." />
         <meta property="og:image" content="/images/og-image.png" />
-        <meta property="og:url" content="https://www.seusite.com" />
+        <meta property="og:url" content="https://qr-code-generator-mocha-beta.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Gerador de QR Code" />
         <meta name="twitter:description" content="Gere seus QR codes personalizados facilmente com nosso gerador de QR Code." />
